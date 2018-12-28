@@ -1,0 +1,2696 @@
+fileFormatVersion: 2
+guid: 8ccdecd9b9e51c94a8a306429e419235
+timeCreated: 1526348510
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_BigMario_Idle
+    21300002: Sprite_BigMario_Walk1
+    21300004: Sprite_BigMario_Walk2
+    21300006: Sprite_BigMario_Walk3
+    21300008: Sprite_BigMario_Turn
+    21300010: Sprite_BigMario_Jump
+    21300012: Sprite_BigMario_Duck
+    21300014: Sprite_BigMario_Climb1
+    21300016: Sprite_BigMario_Climb2
+    21300018: Sprite_LittleMario_Idle
+    21300020: Sprite_LittleMario_Walk1
+    21300022: Sprite_LittleMario_Walk2
+    21300024: Sprite_LittleMario_Walk3
+    21300026: Sprite_LittleMario_Turn
+    21300028: Sprite_LittleMario_Jump
+    21300030: Sprite_LittleMario_Die
+    21300032: Sprite_LittleMario_Climb1
+    21300034: Sprite_LittleMario_Climb2
+    21300036: Sprite_BigFireMario_Idle
+    21300038: Sprite_BigFireMario_Walk1
+    21300040: Sprite_BigFireMario_Walk2
+    21300042: Sprite_BigFireMario_Walk3
+    21300044: Sprite_BigFireMario_Turn
+    21300046: Sprite_BigFireMario_Jump
+    21300048: Sprite_BigFireMario_Duck
+    21300050: Sprite_BigFireMario_Climb1
+    21300052: Sprite_BigFireMario_Climb2
+    21300054: Sprite_LittleFireMario_Idle
+    21300056: Sprite_LittleFireMario_Walk1
+    21300058: Sprite_LittleFireMario_Walk2
+    21300060: Sprite_LittleFireMario_Walk3
+    21300062: Sprite_LittleFireMario_Turn
+    21300064: Sprite_LittleFireMario_Jump
+    21300066: Sprite_LittleFireMario_Die
+    21300068: Sprite_LittleFireMario_Climb1
+    21300070: Sprite_LittleFireMario_Climb2
+    21300072: Sprite_BInvincibleMario1_Idle
+    21300074: Sprite_BInvincibleMario1_Walk1
+    21300076: Sprite_BInvincibleMario1_Walk2
+    21300078: Sprite_BInvincibleMario1_Walk3
+    21300080: Sprite_BInvincibleMario1_Turn
+    21300082: Sprite_BInvincibleMario1_Jump
+    21300084: Sprite_BInvincibleMario1_Duck
+    21300086: Sprite_BInvincibleMario1_Climb1
+    21300088: Sprite_BInvincibleMario1_Climb2
+    21300090: Sprite_BInvincibleMarioOW2_Idle
+    21300092: Sprite_BInvincibleMarioOW2_Walk1
+    21300094: Sprite_BInvincibleMarioOW2_Walk2
+    21300096: Sprite_BInvincibleMarioOW2_Walk3
+    21300098: Sprite_BInvincibleMarioOW2_Turn
+    21300100: Sprite_BInvincibleMarioOW2_Jump
+    21300102: Sprite_BInvincibleMarioOW2_Duck
+    21300104: Sprite_BInvincibleMarioOW2_Climb1
+    21300106: Sprite_BInvincibleMarioOW2_Climb2
+    21300108: Sprite_BInvincibleMarioOW3_Idle
+    21300110: Sprite_BInvincibleMarioOW3_Walk1
+    21300112: Sprite_BInvincibleMarioOW3_Walk2
+    21300114: Sprite_BInvincibleMarioOW3_Walk3
+    21300116: Sprite_BInvincibleMarioOW3_Turn
+    21300118: Sprite_BInvincibleMarioOW3_Jump
+    21300120: Sprite_BInvincibleMarioOW3_Duck
+    21300122: Sprite_BInvincibleMarioOW3_Climb1
+    21300124: Sprite_BInvincibleMarioOW3_Climb2
+    21300126: Sprite_BInvincibleMarioUG2_Idle
+    21300128: Sprite_BInvincibleMarioUG2_Walk1
+    21300130: Sprite_BInvincibleMarioUG2_Walk2
+    21300132: Sprite_BInvincibleMarioUG2_Walk3
+    21300134: Sprite_BInvincibleMarioUG2_Turn
+    21300136: Sprite_BInvincibleMarioUG2_Jump
+    21300138: Sprite_BInvincibleMarioUG2_Duck
+    21300140: Sprite_BInvincibleMarioUG2_Climb1
+    21300142: Sprite_BInvincibleMarioUG2_Climb2
+    21300144: Sprite_BInvincibleMarioUG3_Idle
+    21300146: Sprite_BInvincibleMarioUG3_Walk1
+    21300148: Sprite_BInvincibleMarioUG3_Walk2
+    21300150: Sprite_BInvincibleMarioUG3_Walk3
+    21300152: Sprite_BInvincibleMarioUG3_Turn
+    21300154: Sprite_BInvincibleMarioUG3_Jump
+    21300156: Sprite_BInvincibleMarioUG3_Duck
+    21300158: Sprite_BInvincibleMarioUG3_Climb1
+    21300160: Sprite_BInvincibleMarioUG3_Climb2
+    21300162: Sprite_LInvincibleMario1_Idle
+    21300164: Sprite_LInvincibleMario1_Walk1
+    21300166: Sprite_LInvincibleMario1_Walk2
+    21300168: Sprite_LInvincibleMario1_Walk3
+    21300170: Sprite_LInvincibleMario1_Turn
+    21300172: Sprite_LInvincibleMario1_Jump
+    21300174: Sprite_LInvincibleMario1_Die
+    21300176: Sprite_LInvincibleMario1_Climb1
+    21300178: Sprite_LInvincibleMario1_Climb2
+    21300180: Sprite_LInvincibleMarioOW2_Idle
+    21300182: Sprite_LInvincibleMarioOW2_Walk1
+    21300184: Sprite_LInvincibleMarioOW2_Walk2
+    21300186: Sprite_LInvincibleMarioOW2_Walk3
+    21300188: Sprite_LInvincibleMarioOW2_Turn
+    21300190: Sprite_LInvincibleMarioOW2_Jump
+    21300192: Sprite_LInvincibleMarioOW2_Die
+    21300194: Sprite_LInvincibleMarioOW2_Climb1
+    21300196: Sprite_LInvincibleMarioOW2_Climb2
+    21300198: Sprite_LInvincibleMarioOW3_Idle
+    21300200: Sprite_LInvincibleMarioOW3_Walk1
+    21300202: Sprite_LInvincibleMarioOW3_Walk2
+    21300204: Sprite_LInvincibleMarioOW3_Walk3
+    21300206: Sprite_LInvincibleMarioOW3_Turn
+    21300208: Sprite_LInvincibleMarioOW3_Jump
+    21300210: Sprite_LInvincibleMarioOW3_Die
+    21300212: Sprite_LInvincibleMarioOW3_Climb1
+    21300214: Sprite_LInvincibleMarioOW3_Climb2
+    21300216: Sprite_LInvincibleMarioUG2_Idle
+    21300218: Sprite_LInvincibleMarioUG2_Walk1
+    21300220: Sprite_LInvincibleMarioUG2_Walk2
+    21300222: Sprite_LInvincibleMarioUG2_Walk3
+    21300224: Sprite_LInvincibleMarioUG2_Turn
+    21300226: Sprite_LInvincibleMarioUG2_Jump
+    21300228: Sprite_LInvincibleMarioUG2_Die
+    21300230: Sprite_LInvincibleMarioUG2_Climb1
+    21300232: Sprite_LInvincibleMarioUG2_Climb2
+    21300234: Sprite_LInvincibleMarioUG3_Idle
+    21300236: Sprite_LInvincibleMarioUG3_Walk1
+    21300238: Sprite_LInvincibleMarioUG3_Walk2
+    21300240: Sprite_LInvincibleMarioUG3_Walk3
+    21300242: Sprite_LInvincibleMarioUG3_Turn
+    21300244: Sprite_LInvincibleMarioUG3_Jump
+    21300246: Sprite_LInvincibleMarioUG3_Die
+    21300248: Sprite_LInvincibleMarioUG3_Climb1
+    21300250: Sprite_LInvincibleMarioUG3_Climb2
+    21300252: Sprite_Mario_Grow
+    21300254: Sprite_Mario_FireGrow
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_BigMario_Idle
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 501
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Walk1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 501
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Walk2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 501
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Walk3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 501
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 13}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Turn
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 501
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16.5}
+        - {x: -8, y: -16.5}
+        - {x: 4, y: -16.5}
+        - {x: 8, y: -12.5}
+        - {x: 8, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Jump
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 501
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -8, y: 10}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Duck
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 501
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -8, y: 8}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Climb1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 501
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -2, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigMario_Climb2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 504
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Idle
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 476
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Walk1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 476
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 2.5, y: -7.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 6.5, y: -3.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Walk2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 476
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Walk3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 476
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -7.5, y: 7}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Turn
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 476
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Jump
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 476
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Die
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 478
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Climb1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 476
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleMario_Climb2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 476
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Idle
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 436
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Walk1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 436
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Walk2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 436
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Walk3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 436
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Turn
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 436
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -11}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Jump
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 436
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -8, y: 10}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Duck
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -8, y: 8}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Climb1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 436
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -2, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BigFireMario_Climb2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 439
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Idle
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 405
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Walk1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 405
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 2.5, y: -7.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 6.5, y: -3.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Walk2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 405
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Walk3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 405
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -7.5, y: 7}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Turn
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 405
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Jump
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 405
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Die
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 407
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Climb1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 405
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LittleFireMario_Climb2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 405
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 362
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Walk1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 362
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 15}
+        - {x: -8, y: 11}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Walk2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 362
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 15.5}
+        - {x: -7, y: 13.5}
+        - {x: -7, y: -10.5}
+        - {x: -6, y: -14.5}
+        - {x: -5, y: -15.5}
+        - {x: 5, y: -15.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 14.5}
+        - {x: 6, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Walk3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 362
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Turn
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 362
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 15}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 2, y: -16}
+        - {x: 8, y: -11}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Jump
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 362
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -8, y: 11}
+        - {x: -8, y: -16}
+        - {x: 2, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Duck
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 362
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 11}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Climb1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 362
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -1, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMario1_Climb2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 365
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 322
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Walk1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 322
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Walk2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 322
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Walk3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 322
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Turn
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 322
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 3, y: -16}
+        - {x: 8, y: -9}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Jump
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 322
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+        - {x: -3, y: 16}
+        - {x: -8, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Duck
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 322
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -8, y: 8}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Climb1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 322
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -2, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW2_Climb2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 325
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 12.5}
+        - {x: 6, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Walk1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 280
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 15}
+        - {x: -8, y: 11}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Walk2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 15.5}
+        - {x: -7, y: 13.5}
+        - {x: -7, y: -10.5}
+        - {x: -6, y: -14.5}
+        - {x: -5, y: -15.5}
+        - {x: 5, y: -15.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 14.5}
+        - {x: 6, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Walk3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 280
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Turn
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 280
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -9}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Jump
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 280
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 16}
+        - {x: -8, y: 11}
+        - {x: -8, y: -16}
+        - {x: 2, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Duck
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 280
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 11}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Climb1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 280
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -1, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioOW3_Climb2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 283
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Idle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -8, y: 14}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Walk1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -8, y: 12}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 14}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Walk2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 235
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 15.5}
+        - {x: -7, y: 13.5}
+        - {x: -7, y: -10.5}
+        - {x: -6, y: -14.5}
+        - {x: -5, y: -15.5}
+        - {x: 5, y: -15.5}
+        - {x: 7, y: -11.5}
+        - {x: 7, y: 14.5}
+        - {x: 6, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Walk3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 235
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Turn
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 235
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 2, y: -16}
+        - {x: 8, y: -11}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Jump
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 235
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -16}
+        - {x: 2, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 16}
+        - {x: -2, y: 16}
+        - {x: -8, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Duck
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 235
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 11}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Climb1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 235
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -1, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG2_Climb2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 238
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Idle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 190
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Walk1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 190
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 15}
+        - {x: -8, y: 10}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Walk2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 190
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Walk3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 190
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 13}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Turn
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 190
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -12}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Jump
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 190
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+        - {x: -3, y: 16}
+        - {x: -8, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Duck
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 190
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 11}
+        - {x: -8, y: 8}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Climb1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 190
+        width: 14
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15}
+        - {x: -7, y: -11}
+        - {x: -2, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_BInvincibleMarioUG3_Climb2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 193
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 13.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 12.5}
+        - {x: 6, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Idle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 167
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Walk1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 167
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Walk2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Walk3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 167
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Turn
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 167
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Jump
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 167
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Die
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 169
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Climb1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 167
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMario1_Climb2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 167
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Walk1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 137
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 2.5, y: -7.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 6.5, y: -3.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Walk2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Walk3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 137
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Turn
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 137
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Jump
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 137
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Die
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 139
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Climb1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 137
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW2_Climb2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Idle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Walk1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 107
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Walk2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 107
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Walk3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 107
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Turn
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 107
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Jump
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 8}
+        - {x: -8, y: 3}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Die
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 109
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Climb1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 107
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioOW3_Climb2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 107
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Idle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 78
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Walk1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 78
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 5.5, y: -7.5}
+        - {x: 6.5, y: -6.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Walk2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 78
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Walk3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Turn
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 78
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Jump
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 78
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Die
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Climb1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 78
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG2_Climb2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 78
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Idle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: 6, y: -8}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Walk1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 48
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 7.5}
+        - {x: -6.5, y: -7.5}
+        - {x: 2.5, y: -7.5}
+        - {x: 5.5, y: -5.5}
+        - {x: 6.5, y: -3.5}
+        - {x: 6.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Walk2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 11
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 5.5, y: -7}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Walk3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Turn
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 48
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 6.5, y: -6}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Jump
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 48
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -8, y: 2}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Die
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 50
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Climb1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 48
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: 8}
+        - {x: -6.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 6.5, y: 5}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_LInvincibleMarioUG3_Climb2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 48
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 7.5}
+        - {x: -6, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 6, y: 6.5}
+        - {x: 5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_Mario_Grow
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 11}
+        - {x: 7, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_Mario_FireGrow
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 12}
+        - {x: -8, y: -12}
+        - {x: 8, y: -12}
+        - {x: 8, y: 12}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
