@@ -1,7 +1,7 @@
 # SuperMarioBros.-World_2-1
 
 ## Description
-This project was the first game I created using Unity. It was an assignment for my cross platform programming class during my first term at Toronto Film School's "Video Game Design and Development program". The project is a loose attempt to mimic World_2-1 of Super Mario Bros. for the NES. It was an assignment designed to learn the basics of the Unity game engine while also producing a playable level of a video game.
+This project was the first game I created using Unity. The project is a loose attempt to mimic World_2-1 of Super Mario Bros. for the NES. It was an assignment designed to learn the basics of the Unity game engine while also producing a playable level of a video game.
 
 ## Accomplishments
 **Koopa:** I was able to successfully create a Koopa enemy that when landed on will duck into its shell. If left alone for a few seconds afterwards the Koopa will eventually come out of its shell and continue walking around. If the shell is jumped on again, before Koopa comes out, Koopa will die and the shell will become a projectile that flies around world and will kill the player.
